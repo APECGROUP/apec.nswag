@@ -780,6 +780,9 @@
             <param name="name">The name to capitalize.</param>
             <returns>Capitalized name.</returns>
         </member>
+        <member name="M:NSwag.CodeGeneration.OperationNameGenerators.MultipleClientsFromPathSegmentsOperationNameGenerator.ConvertFullPathToName(System.String)">
+            <summary>Converts the full path to a distinct operation name by joining all non-parameter segments (excluding 'api').</summary>
+        </member>
         <member name="T:NSwag.CodeGeneration.OperationNameGenerators.SingleClientFromOperationIdOperationNameGenerator">
             <summary>Generates the client and operation name based on the Swagger operation ID.</summary>
         </member>

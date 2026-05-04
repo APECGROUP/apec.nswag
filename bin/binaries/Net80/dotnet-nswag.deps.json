@@ -934,7 +934,7 @@
         "runtime": {
           "NSwag.AspNetCore.Launcher.dll": {
             "assemblyVersion": "14.1.0",
-            "fileVersion": "14.1.0"
+            "fileVersion": "14.1.0.0"
           }
         }
       },
@@ -946,7 +946,7 @@
         "runtime": {
           "NSwag.CodeGeneration.dll": {
             "assemblyVersion": "14.1.0",
-            "fileVersion": "14.1.0"
+            "fileVersion": "14.1.0.0"
           }
         }
       },
@@ -958,7 +958,7 @@
         "runtime": {
           "NSwag.CodeGeneration.CSharp.dll": {
             "assemblyVersion": "14.1.0",
-            "fileVersion": "14.1.0"
+            "fileVersion": "14.1.0.0"
           }
         }
       },
@@ -969,7 +969,7 @@
         "runtime": {
           "NSwag.CodeGeneration.TypeScript.dll": {
             "assemblyVersion": "14.1.0",
-            "fileVersion": "14.1.0"
+            "fileVersion": "14.1.0.0"
           }
         }
       },
@@ -988,7 +988,7 @@
         "runtime": {
           "NSwag.Commands.dll": {
             "assemblyVersion": "14.1.0",
-            "fileVersion": "14.1.0"
+            "fileVersion": "14.1.0.0"
           }
         }
       },
@@ -999,7 +999,7 @@
         "runtime": {
           "NSwag.Core.dll": {
             "assemblyVersion": "14.1.0",
-            "fileVersion": "14.1.0"
+            "fileVersion": "14.1.0.0"
           }
         }
       },
@@ -1011,7 +1011,7 @@
         "runtime": {
           "NSwag.Core.Yaml.dll": {
             "assemblyVersion": "14.1.0",
-            "fileVersion": "14.1.0"
+            "fileVersion": "14.1.0.0"
           }
         }
       },
@@ -1023,7 +1023,7 @@
         "runtime": {
           "NSwag.Generation.dll": {
             "assemblyVersion": "14.1.0",
-            "fileVersion": "14.1.0"
+            "fileVersion": "14.1.0.0"
           }
         }
       },
@@ -1036,15 +1036,15 @@
         "runtime": {
           "NSwag.Generation.AspNetCore.dll": {
             "assemblyVersion": "14.1.0",
-            "fileVersion": "14.1.0"
+            "fileVersion": "14.1.0.0"
           }
         }
       },
-      "NJsonSchema.CodeGeneration.TypeScript/11.0.2.0": {
+      "NJsonSchema.CodeGeneration.TypeScript/11.0.0.0": {
         "runtime": {
           "NJsonSchema.CodeGeneration.TypeScript.dll": {
-            "assemblyVersion": "11.0.2.0",
-            "fileVersion": "11.0.2.0"
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.0.0.0"
           }
         }
       }
@@ -1829,7 +1829,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "NJsonSchema.CodeGeneration.TypeScript/11.0.2.0": {
+    "NJsonSchema.CodeGeneration.TypeScript/11.0.0.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
